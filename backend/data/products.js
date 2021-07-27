@@ -1,6 +1,6 @@
 const products = [
     {
-        _id : '1',
+        
         name : 'Airpods wireless',
         image : '/images/airpods.jpg',
         description : `Bluetooth technology lets you connect it with 
@@ -15,7 +15,7 @@ const products = [
         numReviews: 4
     },
     {
-        _id : '2',
+       
         name : 'Alexa wireless',
         image : '/images/alexa.jpg',
         description : `Bluetooth technology lets you connect it with 
@@ -30,7 +30,7 @@ const products = [
         numReviews: 4
     },
     {
-        _id : '3',
+        
         name : 'Camera',
         image : '/images/camera.jpg',
         description : `Bluetooth technology lets you connect it with 
@@ -45,7 +45,7 @@ const products = [
         numReviews: 4
     },
     {
-        _id : '4',
+        
         name : 'Mouse wireless Laptop',
         image : '/images/mouse.jpg',
         description : `Bluetooth technology lets you connect it with 
@@ -60,7 +60,7 @@ const products = [
         numReviews: 4
     },
     {
-        _id : '5',
+        
         name : 'Moble Phone Apple',
         image : '/images/phone.jpg',
         description : `Bluetooth technology lets you connect it with 
@@ -75,7 +75,7 @@ const products = [
         numReviews: 4
     },
     {
-        _id : '6',
+       
         name : 'Sony Playstation',
         image : '/images/playstation.jpg',
         description : `Bluetooth technology lets you connect it with 
